@@ -3,7 +3,7 @@
 **Text to Image Magic** ✨  
 Turn your text into stunning AI-generated images — get 6 results instantly!
 
-![App Screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
+![App Screenshot](https://user-images.githubusercontent.com/screenshot1.png)
 
 ## 🔍 Features
 - Generate 6 random images instantly using **Unsplash API**
@@ -35,7 +35,7 @@ _(Add your GitHub Pages or Netlify live link here)_
 ```
 
 ## 🖼 Preview
-![Preview](https://user-images.githubusercontent.com/your-second-screenshot.png)
+![Preview](https://user-images.githubusercontent.com/screenshot2.png)
 
 ## 🙋‍♂️ Author
 **Prinesh Patel**  
